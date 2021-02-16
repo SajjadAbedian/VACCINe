@@ -1,6 +1,6 @@
 us==1.0.0
 urllib3==1.22
-requests==2.18.4
+requests==2.20.0
 json5==0.8.5
 jsonschema==3.0.2
 numpy==1.14.3
