@@ -3,6 +3,6 @@ urllib3==1.22
 requests==2.18.4
 json5==0.8.5
 jsonschema==3.0.2
-numpy==1.14.3
+numpy==1.22.0
 pandas==0.25.1
 census==0.8.13
